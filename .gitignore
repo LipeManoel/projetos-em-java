@@ -1,0 +1,9 @@
+# Ignorar configurações do Eclipse
+.classpath
+.project
+.settings/
+.buildpath
+
+# Ignorar arquivos temporários do Eclipse
+*.log
+*.tmp
